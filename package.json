@@ -1,0 +1,25 @@
+{
+  "name": "airport",
+  "version": "1.0.0",
+  "description": "Kapow's Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kapow",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "get-youtube-id": "^1.0.0",
+    "ms": "^2.1.1",
+    "opus": "0.0.0",
+    "request": "^2.88.0",
+    "superagent": "^4.0.0",
+    "urban": "^0.3.2",
+    "youtube-info": "^1.3.2",
+    "yt-search": "^0.4.1",
+    "ytdl": "^0.11.0",
+    "ytdl-core": "^0.28.2"
+  }
+}
